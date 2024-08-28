@@ -5,6 +5,9 @@ This project aims to develop a machine learning model capable of accurately dete
 
 The dataset used for this project consists of 1472952 transactions, with 16 features including transaction amount, transaction date, payment method, product category, customer information, and other relevant variables.
 
+#### Link for the dataset: 
+https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions
+
 #### Methodology
 
 1. Data Preprocessing:
